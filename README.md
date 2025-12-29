@@ -15,11 +15,10 @@ A modern and responsive **Job Listing UI** built with **React.js**, focused on u
 - JSX
 - CSS / Tailwind CSS
 
-## 📸 Preview
-![Job Listing UI](./preview.png)
+
 
 ## 🌐 Live Demo
-https://your-live-project-link.vercel.app
+https://react-props-project-ruby.vercel.app/
 
 ## 📂 Project Purpose
 This project was created to strengthen my understanding of:
